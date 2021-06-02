@@ -36,8 +36,8 @@ limitations under the License.
 
 ## Installation
 
-``` bash
-$ npm install @stdlib/utils-if-else
+```bash
+npm install @stdlib/utils-if-else
 ```
 
 </section>
