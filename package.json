@@ -69,5 +69,9 @@
     "condition",
     "conditional",
     "either-or"
-  ]
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
 }
