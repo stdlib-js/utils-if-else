@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-if-else",
-  "version": "0.0.1-alpha.8",
+  "version": "0.0.1-alpha.9",
   "description": "If a condition is truthy, return `x`; otherwise, return `y`.",
   "license": "Apache-2.0",
   "author": {
