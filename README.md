@@ -113,6 +113,13 @@ for ( i = 0; i < 100; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/async/if-else`][@stdlib/utils/async/if-else]: if a predicate function returns a truthy value, return `x`; otherwise, return `y`.
+-   [`@stdlib/utils/if-then`][@stdlib/utils/if-then]: if a condition is truthy, invoke `x`; otherwise, invoke `y`.
+
 </section>
 
 <!-- /.related -->
@@ -173,6 +180,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-if-else/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/async/if-else]: https://github.com/stdlib-js/utils-async-if-else
+
+[@stdlib/utils/if-then]: https://github.com/stdlib-js/utils-if-then
+
+<!-- </related-links> -->
 
 </section>
 
