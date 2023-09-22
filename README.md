@@ -54,6 +54,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+ifelse = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-else@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-if-else/tags). For example,
+
+```javascript
 ifelse = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-else@v0.1.0-umd/browser.js' )
 ```
 
@@ -66,7 +71,7 @@ var ifelse = require( 'path/to/vendor/umd/utils-if-else/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-else@v0.1.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-else@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -116,7 +121,7 @@ z = ifelse( false, 1.0, -1.0 );
 <html lang="en">
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-else@v0.1.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-else@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
