@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ifelse from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-else@deno/mod.js';
+import ifelse from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-else@v0.2.0-deno/mod.js';
 ```
 
 #### ifelse( bool, x, y )
@@ -89,7 +89,7 @@ z = ifelse( false, 1.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import ifelse from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-else@deno/mod.js';
+import ifelse from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-else@v0.2.0-deno/mod.js';
 
 var z;
 var i;
